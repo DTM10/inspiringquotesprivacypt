@@ -1,0 +1,18 @@
+
+
+h1 {
+    padding: 4rem;
+}
+
+.text-bg {
+    background-color: #519BC9;
+    color: #fff;
+}
+
+.main-body {
+    padding-bottom: 20rem;
+}
+
+.lead {
+    text-align: justify;
+}
